@@ -3,19 +3,20 @@ I am a Developer at [Cloudogu](https://cloudogu.com/de/) and
 Media Informatics B.Sc. student at the [Ostfalia Wolfenbüttel](https://www.ostfalia.de/cms/de) in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" alt="Germany" width="13"/>.
 I love to develop with a strong focus on high quality, refactoring and clean code.
 
-## 🌐Socials:
+
+## <img src="https://media.giphy.com/media/fU4rqm0AHZtqGED9m4/giphy.gif" width="25"/> Socials:
 [![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack%20Overflow&color=EB741A&logo=stack-overflow&logoColor=FFFFFF&label=)](https://stackoverflow.com/users/5276170) 
 [![Xing](https://img.shields.io/static/v1?style=for-the-badge&message=Xing&color=006567&logo=Xing&logoColor=FFFFFF&label=)](https://www.xing.com/profile/Jasper_Bartscher/cv)
 [![](https://visitcount.itsvg.in/api?id=Jbartscher&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
-## 📊GitHub Stats:
+## <img src="https://media.giphy.com/media/fxT9TYmgjBloBaLxL2/giphy.gif" width="40"/>GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jbartscher&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jbartscher&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbartscher&theme=tokyonight&langs_count=6&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 💻 Technologies and Tools I'm experienced with:
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"/> Technologies and Tools I'm experienced with:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -53,9 +54,11 @@ I love to develop with a strong focus on high quality, refactoring and clean cod
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/static/v1?style=for-the-badge&message=SonarQube&color=4E9BCD&logo=SonarQube&logoColor=FFFFFF&label=)
 
-## 👨‍💻 IDE of Choice:
+
+## <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="30"/> IDE of Choice:
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-## 🏆GitHub Trophies
+
+## <img src="https://media.giphy.com/media/fw3XuXcz1p1AZdZOH8/giphy.gif" width="25"/> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jbartscher&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
