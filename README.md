@@ -22,6 +22,7 @@ I love to develop with a strong focus on high quality, refactoring and clean cod
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"/> Technologies and Tools I'm experienced with:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
@@ -34,6 +35,7 @@ I love to develop with a strong focus on high quality, refactoring and clean cod
 ![SAP](https://img.shields.io/static/v1?style=for-the-badge&message=SAP&color=0FAAFF&logo=SAP&logoColor=FFFFFF&label=)
 ![ABAP](https://img.shields.io/static/v1?style=for-the-badge&message=ABAP&color=0E8CD6&logo=SAP&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 ![Cypress](https://img.shields.io/static/v1?style=for-the-badge&message=Cypress&color=17202C&logo=Cypress&logoColor=FFFFFF&label=)
 ![Cucumber](https://img.shields.io/static/v1?style=for-the-badge&message=Cucumber&color=222222&logo=Cucumber&logoColor=23D96C&label=)
