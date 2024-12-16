@@ -20,7 +20,7 @@ I love to develop with a strong focus on high quality, refactoring and clean cod
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"/> Technologies and Tools I'm experienced with:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Rust]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=rust&logoColor=ffdd54](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust&color=CE412B))
+![Rust](https://img.shields.io/badge/Rust-3776AB?style=for-the-badge&logo=rust&logoColor=white&color=CE412B)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
