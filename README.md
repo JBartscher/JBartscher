@@ -33,7 +33,7 @@ I love to develop with a strong focus on high quality, refactoring and clean cod
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 ![Cypress](https://img.shields.io/static/v1?style=for-the-badge&message=Cypress&color=17202C&logo=Cypress&logoColor=FFFFFF&label=)
 ![Cucumber](https://img.shields.io/static/v1?style=for-the-badge&message=Cucumber&color=222222&logo=Cucumber&logoColor=23D96C&label=)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white))
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![etcd](https://img.shields.io/static/v1?style=for-the-badge&message=etcd&color=419EDA&logo=etcd&logoColor=FFFFFF&label=)
