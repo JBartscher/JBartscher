@@ -38,6 +38,7 @@ I love to develop with a strong focus on high quality, refactoring and clean cod
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![etcd](https://img.shields.io/static/v1?style=for-the-badge&message=etcd&color=419EDA&logo=etcd&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Axum](https://img.shields.io/static/v1?style=for-the-badge&message=Axum&color=000000&logo=Axum&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
 ![Quarkus](https://img.shields.io/badge/quarkus-blue?style=for-the-badge&logo=quarkus&logoColor=white)
